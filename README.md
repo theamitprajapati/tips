@@ -38,5 +38,5 @@ Working smart is not about better code. It is about figuring out what needs to b
 Large and challenging development tasks will carry unknowns. Embrace it. Learn to work with it.
 
 You will be more productive if you keep things simple and align expectations for the outcome with your team, boss, customer, ideally everybody.
-
+[https://www.codementor.io/@jeanpauldelimat/5-top-skills-of-the-hero-developer-involves-lego-bricks-12ucc4ffzo?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-12ucc4ffzo&utm_campaign=newsletter20200122]
 Thanks for reading!
