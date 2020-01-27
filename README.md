@@ -40,3 +40,6 @@ Large and challenging development tasks will carry unknowns. Embrace it. Learn t
 You will be more productive if you keep things simple and align expectations for the outcome with your team, boss, customer, ideally everybody.
 [https://www.codementor.io/@jeanpauldelimat/5-top-skills-of-the-hero-developer-involves-lego-bricks-12ucc4ffzo?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-12ucc4ffzo&utm_campaign=newsletter20200122]
 Thanks for reading!
+
+
+Node - [https://codeburst.io/mastering-front-end-engineering-in-12-to-20-weeks-for-beginners-and-experienced-alike-6dc5172e3295]
